@@ -1,5 +1,4 @@
-# The Commit Resolve
-# aka. 잔디 심을 결심
+# The Commit Resolve(ko. 잔디 심을 결심)
 
 > Design your GitHub contribution graph, set your goals, and get daily reminders to achieve your resolve.
 
